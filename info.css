@@ -1,0 +1,14 @@
+#output {
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+div {
+  margin: auto;
+  display: flex;
+}
+
+a {
+  margin: auto;
+}
